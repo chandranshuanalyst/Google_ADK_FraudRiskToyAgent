@@ -18,13 +18,13 @@ for fraud risk assessment in banking.
 
 ## Architecture
 Transaction & Customer Data (Tool)
-        ↓
+        -->
 Fraud Model Proxy (Tool)
-        ↓
+        -->
 Agent Orchestrator
-        ↓
+        -->
 LLM Reasoning
-        ↓
+        -->
 Risk Rating & Action
 
 ## Why this matters
