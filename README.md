@@ -66,8 +66,5 @@ What to expect: each script builds a small AI workflow and runs it with an in-me
 - Missing `GOOGLE_API_KEY`: set this environment variable or add it into a `.env` file before running an example.
 - Dependency issues: ensure you installed `requirements.txt` with the correct Python version.
 
-**Next steps**
-- I can expand sections with example outputs, or add step-by-step screenshots. Tell me if you want more detail added.
-
 **License & Contribution**
 Feel free to use or adapt these examples. If you want help turning one example into a small app, I can help.
